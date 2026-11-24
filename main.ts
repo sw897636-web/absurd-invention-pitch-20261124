@@ -7,7 +7,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const PITCH =
-  "A mug that reheats your coffee whenever you forget it, and charges one compliment per cup.";
+  "Sticky tape with a tiny lighthouse on its loose end that sweeps a beam around the roll, so your thumbnail never has to hunt for the edge again.";
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
 mkdirSync(outDir, { recursive: true });

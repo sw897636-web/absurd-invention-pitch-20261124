@@ -8,13 +8,13 @@ Entry for the [One-Sentence Absurd Invention Pitch](https://make.fun/bounty/u-su
 
 ## The pitch
 
-> A mug that reheats your coffee whenever you forget it, and charges one compliment per cup.
+> Sticky tape with a tiny lighthouse on its loose end that sweeps a beam around the roll, so your thumbnail never has to hunt for the edge again.
 
-- Characters: 90 (limit 220)
+- Characters: 143 (limit 220)
 - One sentence, one line, no trailing newline.
 
-The tiny annoyance: coffee going cold because you walked away and forgot it.
-The absurd fix: a self-reheating mug that takes its payment in compliments.
+The tiny annoyance: never finding the loose end of a roll of sticky tape.
+The absurd fix: a tape roll with a tiny lighthouse on its loose end that sweeps a beam around the roll to mark the edge.
 
 ## How it works
 
